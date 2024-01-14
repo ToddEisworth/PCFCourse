@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="ch-chapter-title" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Chapter Title</title>
+  <title>Ordinal-valued Functions</title>
 
   <introduction>
     <p> Text before the first section. </p>
@@ -9,5 +9,6 @@
 
   <!-- include sections -->
   <xi:include href="sec-section-name.ptx" />
-
+  <xi:include href="sec-unbounded-sets.ptx"/>
+  <xi:include href="sec-equivalence.ptx"/>
 </chapter>
